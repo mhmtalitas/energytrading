@@ -10,6 +10,6 @@ This project is a decentralized Energy Trading Platform built on the Ethereum bl
 
 ## Installation
 ```bash
-git clone https://github.com/yourgithubusername/energy-trading-platform.git
+git clone https://github.com/mhmtalitas/energytrading
 cd energy-trading-platform
 npm install
